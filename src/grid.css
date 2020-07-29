@@ -6,11 +6,14 @@
 .grid-container {
     text-align: center;
     display: grid;
-    grid-template-columns: repeat(10, 2rem);
-    grid-template-rows: repeat(10, 2rem);
+    grid-template-columns: repeat(25, 2rem);
+    grid-template-rows: repeat(25, 2rem);
 }
 .grid-cell {
     border: solid lightgray;
     width: 2rem;
     height: 2rem;
+}
+.cell-on {
+    background: blue;
 }

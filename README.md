@@ -1,12 +1,7 @@
 # Conways Game of Life Plans
 
 - I need to create a data structure to hold the cellular automata.
-
-
-
-
-
-
+- I need them to be clickable, so each cell can change from 0 to 1 or 1 to 0.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
